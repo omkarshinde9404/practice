@@ -2,5 +2,5 @@
 using namespace std;
 void main()
 {
-int
+int a= 10,b =20;
 }
